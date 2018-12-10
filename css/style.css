@@ -1,0 +1,94 @@
+
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/bloc_cta.css");
+@import url("components/form.css");
+
+body{
+	margin: 0px;
+}
+
+h1{
+
+	font-size: 56px; 
+	font-family: "Reman";
+	text-align: center;
+	color: #bf858b;
+	margin-top: 30px;
+}
+
+h2{
+
+	font-size: 26px;
+	font-family: "ClementePDaa";
+	color: #bf858b;
+	padding-top: 20px;
+}
+
+h3{
+
+	font-size: 16px; 
+	font-family: "ClementePDaa";
+	text-align: center;
+	color: #bf858b;
+	margin-top: 30px;
+}
+
+p{
+	font-family: 'Champagne&Limousines';
+	font-size: 20px;
+	color: #888888;	
+
+}
+
+.imagegauche{
+
+float: left;
+}
+
+.imagedroite{
+
+float: right; 
+margin-left: 20px;
+}
+
+a{text-decoration: none;
+  color: white;
+
+}
+img: hover {
+  box-shadow: 8px 8px 0px #aaa; 
+}
+
+#Card{
+border: 2px #bca6a8 dotted;
+padding: 10px;  /* Internal space */
+float: left;
+background-color: white;
+margin: 20px;
+}
+
+#Card2{
+padding: 5px 50px;  /* Internal space */
+padding-bottom: 20px;
+float: left;
+background-color: #bca6a8;
+margin: 20px;
+float: right;
+text-align: center;
+}
+
+.titre_rs{
+
+	font-size: 30px; 
+	font-family: "Champagne&Limousines";
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 10px;
+
+}
+
+
+
+

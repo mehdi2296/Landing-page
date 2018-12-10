@@ -1,0 +1,23 @@
+.button{
+background-color: #888888;
+color: white;
+font-family: "Champagne & Limousines";
+padding: 10px 25px;
+font-size: 12px;
+text-align: center;
+}
+
+.button:hover{
+background-color: #bca6a8;
+text-decoration: none;
+}
+
+.buttonrs{
+color: white;
+padding: 3px 3px;
+border-radius: 5px;
+font-family: "Champagne & Limousines";
+list-style: none;
+text-align: center;
+margin: 20px;
+}

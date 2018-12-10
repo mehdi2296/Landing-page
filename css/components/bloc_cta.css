@@ -1,0 +1,33 @@
+figure { 
+	display: inline-block;
+	position:relative;
+	overflow:hidden; 
+}
+figcaption {
+	position:absolute;
+	padding:40px; 
+	text-align:center;
+	font-family: "Reman";
+	font-size: 30px;
+	color: white;
+	transition: color 0.3s ease;
+	}
+figure:hover figcaption{
+	bottom:0;
+	background: #000;
+	background: #bca6a8 ;
+}
+
+.list_inline {
+  list-style: none; /* kill the bullet points */
+  padding-left: 0px; /* kill remaining padding left */
+  text-align: center;
+
+}
+.list_inline > li {
+  display: inline; /* change list item behavior to inline */
+  padding: 0px 5px; /* add som left/right padding between list items */
+  text-align: center;
+  size: 20px;
+  font-size: 40px;
+}
