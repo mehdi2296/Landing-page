@@ -11,8 +11,9 @@ body{
 
 h1{
 
-	font-size: 56px; 
-	font-family: "Reman";
+	font-size: 46px; 
+	font-family: 'Alex Brush', cursive;
+	font-weight: lighter;
 	text-align: center;
 	color: #bf858b;
 	margin-top: 30px;
@@ -21,7 +22,7 @@ h1{
 h2{
 
 	font-size: 26px;
-	font-family: "ClementePDaa";
+	font-family: "Roboto";
 	color: #bf858b;
 	padding-top: 20px;
 }
@@ -29,14 +30,14 @@ h2{
 h3{
 
 	font-size: 16px; 
-	font-family: "ClementePDaa";
+	font-family: "Roboto";
 	text-align: center;
 	color: #bf858b;
 	margin-top: 30px;
 }
 
 p{
-	font-family: 'Champagne&Limousines';
+	font-family: 'Roboto';
 	font-size: 20px;
 	color: #888888;	
 
@@ -66,7 +67,7 @@ border: 2px #bca6a8 dotted;
 padding: 10px;  /* Internal space */
 float: left;
 background-color: white;
-margin: 20px;
+margin: 10px;
 }
 
 #Card2{
@@ -74,7 +75,7 @@ padding: 5px 50px;  /* Internal space */
 padding-bottom: 20px;
 float: left;
 background-color: #bca6a8;
-margin: 20px;
+margin: 10px;
 float: right;
 text-align: center;
 }
